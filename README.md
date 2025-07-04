@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Traffic Management System**
 
-- 🌱 I’m currently learning **DSA,Azure,Web Development**
+- 🌱 I’m currently learning **DSA,AWS,Web Development**
 
 - 💬 Ask me about **Cloud,Development,Coding**
 
